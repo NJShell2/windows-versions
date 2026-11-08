@@ -1,0 +1,427 @@
+{
+  "last_updated": "2026-11-08",
+  "source_note": "Built 8 Nov 2026 from Microsoft Learn release information pages. The page it replaces, techthoughts.info/windows-version-numbers, was last updated 1 Dec 2021 and stops at Windows 11 22H2.",
+  "windows_11": [
+    {
+      "version": "26H2",
+      "build": "26300",
+      "availability": "2026-09-29",
+      "latest_build": "26300.9818",
+      "latest_date": "2026-10-28",
+      "latest_kb": "KB5127936",
+      "home_pro_end": "2028-10-10",
+      "enterprise_edu_end": "2029-10-09",
+      "status": "Current",
+      "note": "Latest general release. Enablement package on 24H2 or 25H2."
+    },
+    {
+      "version": "26H1",
+      "build": "28000",
+      "availability": "2026-02-10",
+      "latest_build": "28000.3365",
+      "latest_date": "2026-10-28",
+      "latest_kb": "KB5127653",
+      "home_pro_end": "2028-03-14",
+      "enterprise_edu_end": "2029-03-13",
+      "status": "Current, new devices only",
+      "note": "Ships on new devices from early 2026. Not offered as an in-place update from 24H2 or 25H2."
+    },
+    {
+      "version": "25H2",
+      "build": "26200",
+      "availability": "2025-09-30",
+      "latest_build": "26200.9818",
+      "latest_date": "2026-10-28",
+      "latest_kb": "KB5127936",
+      "home_pro_end": "2027-10-12",
+      "enterprise_edu_end": "2028-10-10",
+      "status": "Supported",
+      "note": "Enablement package on 24H2."
+    },
+    {
+      "version": "24H2",
+      "build": "26100",
+      "availability": "2024-10-01",
+      "latest_build": "26100.9725",
+      "latest_date": "2026-10-26",
+      "latest_kb": "KB5134133",
+      "home_pro_end": "Ended 2026-10-13",
+      "enterprise_edu_end": "2027-10-12",
+      "status": "Home/Pro ended",
+      "note": "Home, Pro, Pro Education and Pro for Workstations stopped getting updates 13 Oct 2026. Move to 25H2 or 26H2.",
+      "ltsc_mainstream": "2029-10-09",
+      "ltsc_extended": "2034-10-10"
+    },
+    {
+      "version": "23H2",
+      "build": "22631",
+      "availability": "2023-10-31",
+      "latest_build": "22631.7654",
+      "latest_date": "2026-10-26",
+      "latest_kb": "KB5134130",
+      "home_pro_end": "Ended 2025-11-11",
+      "enterprise_edu_end": "2026-11-10",
+      "status": "Ending",
+      "note": "Enterprise and Education end 10 Nov 2026, two days after this page was built."
+    },
+    {
+      "version": "22H2",
+      "build": "22621",
+      "availability": "2022-09-20",
+      "latest_build": "22621.6060",
+      "latest_date": "2025-10-14",
+      "latest_kb": "KB5066793",
+      "home_pro_end": "Ended 2024-10-08",
+      "enterprise_edu_end": "Ended 2025-10-14",
+      "status": "Out of support",
+      "note": "Last version listed on the old techthoughts page."
+    },
+    {
+      "version": "21H2",
+      "build": "22000",
+      "availability": "2021-10-04",
+      "latest_build": "22000.3260",
+      "latest_date": "2024-10-08",
+      "latest_kb": "KB5044280",
+      "home_pro_end": "Ended 2023-10-10",
+      "enterprise_edu_end": "Ended 2024-10-08",
+      "status": "Out of support",
+      "note": "First Windows 11 release."
+    }
+  ],
+  "windows_10": [
+    {
+      "version": "22H2",
+      "build": "19045",
+      "availability": "2022-10-18",
+      "status": "Support ended",
+      "note": "The Oct 2025 update was the final free update. Later builds are paid Extended Security Updates only: latest ESU build 19045.7811, 26 Oct 2026, KB5134125. Source: Microsoft Learn, Windows 10 release information (moved to /release-health/release-information).",
+      "latest_build": "19045.7811 (ESU)",
+      "codename": "22H2",
+      "marketing": "2022 Update",
+      "home_pro_end": "2025-10-14",
+      "enterprise_edu_end": "2025-10-14"
+    },
+    {
+      "version": "21H2",
+      "build": "19044",
+      "availability": "2021-11-16",
+      "status": "Support ended",
+      "note": "",
+      "codename": "21H2",
+      "marketing": "November 2021 Update",
+      "home_pro_end": "2023-06-13",
+      "enterprise_edu_end": "2024-06-11",
+      "ltsc_mainstream": "2027-01-12",
+      "ltsc_extended": "2032-01-13",
+      "ltsc_extended_note": "IoT Enterprise only",
+      "ltsc_latest_build": "19044.7811",
+      "ltsc_latest_date": "2026-10-26"
+    },
+    {
+      "version": "21H1",
+      "build": "19043",
+      "availability": "2021-05-18",
+      "status": "Support ended",
+      "note": "",
+      "codename": "21H1",
+      "marketing": "May 2021 Update",
+      "home_pro_end": "2022-12-13",
+      "enterprise_edu_end": "2022-12-13"
+    },
+    {
+      "version": "20H2",
+      "build": "19042",
+      "availability": "2020-10-20",
+      "status": "Support ended",
+      "note": "",
+      "codename": "20H2",
+      "marketing": "October 2020 Update",
+      "home_pro_end": "2022-05-10",
+      "enterprise_edu_end": "2023-05-09"
+    },
+    {
+      "version": "2004",
+      "build": "19041",
+      "availability": "2020-05-27",
+      "status": "Support ended",
+      "note": "",
+      "codename": "20H1",
+      "marketing": "May 2020 Update",
+      "home_pro_end": "2021-12-14",
+      "enterprise_edu_end": "2021-12-14"
+    },
+    {
+      "version": "1909",
+      "build": "18363",
+      "availability": "2019-11-12",
+      "status": "Support ended",
+      "note": "",
+      "codename": "19H2",
+      "marketing": "November 2019 Update",
+      "home_pro_end": "2021-05-11",
+      "enterprise_edu_end": "2022-05-10"
+    },
+    {
+      "version": "1903",
+      "build": "18362",
+      "availability": "2019-05-21",
+      "status": "Support ended",
+      "note": "",
+      "codename": "19H1",
+      "marketing": "May 2019 Update",
+      "home_pro_end": "2020-12-08",
+      "enterprise_edu_end": "2020-12-08"
+    },
+    {
+      "version": "1809",
+      "build": "17763",
+      "availability": "2018-11-13",
+      "status": "Support ended",
+      "note": "",
+      "codename": "Redstone 5",
+      "marketing": "October 2018 Update",
+      "home_pro_end": "2020-11-10",
+      "enterprise_edu_end": "2021-05-11",
+      "ltsc_extended": "2029-01-09",
+      "ltsc_latest_build": "17763.9378",
+      "ltsc_latest_date": "2026-10-26"
+    },
+    {
+      "version": "1803",
+      "build": "17134",
+      "availability": "2018-04-30",
+      "status": "Support ended",
+      "note": "",
+      "codename": "Redstone 4",
+      "marketing": "April 2018 Update",
+      "home_pro_end": "2019-11-12",
+      "enterprise_edu_end": "2021-05-11"
+    },
+    {
+      "version": "1709",
+      "build": "16299",
+      "availability": "2017-10-17",
+      "status": "Support ended",
+      "note": "",
+      "codename": "Redstone 3",
+      "marketing": "Fall Creators Update",
+      "home_pro_end": "2019-04-09",
+      "enterprise_edu_end": "2020-10-13"
+    },
+    {
+      "version": "1703",
+      "build": "15063",
+      "availability": "2017-04-11",
+      "status": "Support ended",
+      "note": "",
+      "codename": "Redstone 2",
+      "marketing": "Creators Update",
+      "home_pro_end": "2018-10-09",
+      "enterprise_edu_end": "2019-10-08"
+    },
+    {
+      "version": "1607",
+      "build": "14393",
+      "availability": "2016-08-02",
+      "status": "Support ended",
+      "note": "",
+      "codename": "Redstone 1",
+      "marketing": "Anniversary Update",
+      "home_pro_end": "2018-04-10",
+      "enterprise_edu_end": "2019-04-09",
+      "ltsc_latest_build": "14393.9615",
+      "ltsc_latest_date": "2026-10-26"
+    },
+    {
+      "version": "1511",
+      "build": "10586",
+      "availability": "2015-11-10",
+      "status": "Support ended",
+      "note": "",
+      "codename": "Threshold 2",
+      "marketing": "November Update",
+      "home_pro_end": "2017-10-10",
+      "enterprise_edu_end": "2017-10-10"
+    },
+    {
+      "version": "1507",
+      "build": "10240",
+      "availability": "2015-07-29",
+      "status": "Support ended",
+      "note": "",
+      "codename": "Threshold 1",
+      "marketing": "First release",
+      "home_pro_end": "2017-05-09",
+      "enterprise_edu_end": "2017-05-09"
+    }
+  ],
+  "windows_server": [
+    {
+      "version": "Server 2025",
+      "channel": "LTSC",
+      "build": "26100",
+      "availability": "2024-11-01",
+      "latest_build": "26100.33674",
+      "latest_date": "2026-10-26",
+      "latest_kb": "KB5134137",
+      "mainstream_end": "2029-11-13",
+      "extended_end": "2034-11-14",
+      "status": "Current LTSC"
+    },
+    {
+      "version": "Server 23H2",
+      "channel": "Annual Channel",
+      "build": "See Microsoft Learn",
+      "availability": "See Microsoft Learn",
+      "latest_build": "See Microsoft Learn",
+      "latest_date": "",
+      "latest_kb": "",
+      "mainstream_end": "See Microsoft Learn",
+      "extended_end": "",
+      "status": "Latest Annual Channel"
+    },
+    {
+      "version": "Server 2022",
+      "channel": "LTSC",
+      "build": "20348",
+      "availability": "2021-08-18",
+      "latest_build": "20348.5773",
+      "latest_date": "2026-10-26",
+      "latest_kb": "KB5134140",
+      "mainstream_end": "Ended",
+      "extended_end": "2031-10-14",
+      "status": "Extended support"
+    },
+    {
+      "version": "Server 2019 (1809)",
+      "channel": "LTSC",
+      "build": "17763",
+      "availability": "2018-11-13",
+      "latest_build": "17763.9378",
+      "latest_date": "2026-10-26",
+      "latest_kb": "KB5134124",
+      "mainstream_end": "Ended",
+      "extended_end": "2029-01-09",
+      "status": "Extended support"
+    },
+    {
+      "version": "Server 2016 (1607)",
+      "channel": "LTSB",
+      "build": "14393",
+      "availability": "2016-08-02",
+      "latest_build": "14393.9615",
+      "latest_date": "2026-10-26",
+      "latest_kb": "See Microsoft Learn",
+      "mainstream_end": "Ended",
+      "extended_end": "2027-01-12",
+      "status": "Extended support"
+    }
+  ],
+  "os_version_summary": [
+    [
+      "Windows 11",
+      "10.0"
+    ],
+    [
+      "Windows Server 2025",
+      "10.0"
+    ],
+    [
+      "Windows Server 2022",
+      "10.0"
+    ],
+    [
+      "Windows 10",
+      "10.0"
+    ],
+    [
+      "Windows Server 2019",
+      "10.0"
+    ],
+    [
+      "Windows Server 2016",
+      "10.0"
+    ],
+    [
+      "Windows 8.1",
+      "6.3"
+    ],
+    [
+      "Windows Server 2012 R2",
+      "6.3"
+    ],
+    [
+      "Windows 8",
+      "6.2"
+    ],
+    [
+      "Windows Server 2012",
+      "6.2"
+    ],
+    [
+      "Windows 7",
+      "6.1"
+    ],
+    [
+      "Windows Server 2008 R2",
+      "6.1"
+    ],
+    [
+      "Windows Vista",
+      "6.0"
+    ],
+    [
+      "Windows Server 2008",
+      "6.0"
+    ],
+    [
+      "Windows XP 64-Bit Edition",
+      "5.2"
+    ],
+    [
+      "Windows Server 2003 R2",
+      "5.2"
+    ],
+    [
+      "Windows Server 2003",
+      "5.2"
+    ],
+    [
+      "Windows XP",
+      "5.1"
+    ],
+    [
+      "Windows 2000",
+      "5.0"
+    ],
+    [
+      "Windows Millennium",
+      "4.9"
+    ],
+    [
+      "Windows 98",
+      "4.1"
+    ],
+    [
+      "Windows 95",
+      "4.0"
+    ],
+    [
+      "Windows NT 4.0",
+      "4.0"
+    ],
+    [
+      "Windows NT 3.51",
+      "3.51"
+    ],
+    [
+      "Windows NT 3.5",
+      "3.5"
+    ],
+    [
+      "Windows NT 3.1",
+      "3.1"
+    ]
+  ]
+}
